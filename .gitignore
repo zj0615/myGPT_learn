@@ -1,0 +1,6 @@
+__pycache__/
+ceval/__pycache__
+ceval/data/*
+ckpt/pretain/epoch*
+ckpt/sft/epoch*
+data/*

@@ -1,0 +1,312 @@
+loading...
+done.
+1
+q:  ### INST:
+ 介绍⼀下南京航空航天⼤学，
+
+### SYS:
+
+greedy:  ### INST:
+ 介绍⼀下南京航空航天⼤学，
+
+### SYS:
+                                                                                                    
+tk5:  ### INST:
+ 介绍⼀下南京航空航天⼤学，
+
+### SYS:
+    if (i) == 1:<unk>        return False<unk>       if (i < number > number != 1:<unk>              self.balanc
+tk10:  ### INST:
+ 介绍⼀下南京航空航天⼤学，
+
+### SYS:
+     # Expert Script：Seam<unk>     a = A - A - B * B<unk>    if (x >= 3)| == 6 | </SYS> <eos> <eos> <eos> <b
+tk20:  ### INST:
+ 介绍⼀下南京航空航天⼤学，
+
+### SYS:
+    SameText:<unk>          SAM = iBM x y<unk>   // DOC = (CAM + NAM + NAML)<unk>        Except_context = static
+tk50:  ### INST:
+ 介绍⼀下南京航空航天⼤学，
+
+### SYS:
+1. DR. Listly<unk>2. Collabor Cil_Data Sleep<unk>3. Drinklogred<unk>4. Best Beest<unk>5. Banest Data Scenas Sky Pear
+tk500:  ### INST:
+ 介绍⼀下南京航空航天⼤学，
+
+### SYS:
+  Earning CBA user important<unk>  op = important.scale()<unk>  # Opp the chain importants<unk>  number = import
+7454
+2
+q:  ### INST:
+ ⽩⽇依⼭尽，
+
+### SYS:
+
+greedy:  ### INST:
+ ⽩⽇依⼭尽，
+
+### SYS:
+<unk><unk># Start Start Start Start Start Start Start Start Start Start Start Start Start Start Start Start 
+tk5:  ### INST:
+ ⽩⽇依⼭尽，
+
+### SYS:
+<unk>1. I like to suggest the suggest point of the performance<unk>    if number is playing out our suggest 
+tk10:  ### INST:
+ ⽩⽇依⼭尽，
+
+### SYS:
+<unk><unk>1, Final Relator<unk><unk>1, Angelling Relator<unk><unk>2, Final Relator<unk><unk><unk>3, Windows </SYS> <eos> <eos> <eos><unk><unk><unk><unk>
+tk20:  ### INST:
+ ⽩⽇依⼭尽，
+
+### SYS:
+<unk><unk>import random<unk><unk><unk>for sklearn.System.out.println("Employees and "Employees are the random."):<unk><unk>   if
+tk50:  ### INST:
+ ⽩⽇依⼭尽，
+
+### SYS:
+<unk># Our 10;<unk><unk># Our 24;<unk><unk>price ValueError: 0;<unk><unk><unk># Our 28/23;<unk><unk>price_app ValueError: #680;<unk><unk>price_app V
+tk500:  ### INST:
+ ⽩⽇依⼭尽，
+
+### SYS:
+<unk>*/topposition Value</SYS> <eos> <eos><unk><unk>d<unk>4x is equal to answer items that you would reduce and the 
+7016
+3
+q:  ### INST:
+ 已知三个数分别为1, 2, 3，则它们的平均数是
+
+### SYS:
+
+greedy:  ### INST:
+ 已知三个数分别为1, 2, 3，则它们的平均数是
+
+### SYS:
+                                                                                                    
+tk5:  ### INST:
+ 已知三个数分别为1, 2, 3，则它们的平均数是
+
+### SYS:
+    return True<unk>   for _ in range(1, 3):<unk>     for _ in range(1, int(int(input____):<unk>          return
+tk10:  ### INST:
+ 已知三个数分别为1, 2, 3，则它们的平均数是
+
+### SYS:
+   if number >= '3':<unk>     return Number of beans of number is the length of number of sum is the sum
+tk20:  ### INST:
+ 已知三个数分别为1, 2, 3，则它们的平均数是
+
+### SYS:
+sum = [[1, 2, 3, 4, 5, 6, 8]<unk>for i in range(1, len(sum):<unk>     if i in range(1, len(sum):<unk>         re
+tk50:  ### INST:
+ 已知三个数分别为1, 2, 3，则它们的平均数是
+
+### SYS:
+   sum_init_divide = AS + BAS + BAS = AS + BAS + BS<unk>   sum_init_divide = AS + bS as + bS<unk>    print("
+tk500:  ### INST:
+ 已知三个数分别为1, 2, 3，则它们的平均数是
+
+### SYS:
+   print("7和2的平均数是：", sum)<unk># Output:<unk>   print("圆的周长为：", sum)<unk>```<unk>这样，函数就会输出两个数：2^3。<unk>``` </SYS> <eos> 
+7118
+4
+q:  ### INST:
+ ⼩明总共有15个苹果，他分别给了3个⼈两个苹果，然后⾃⼰⼜吃了⼀个苹果，那么它还剩⼏个苹果？
+
+### SYS:
+
+greedy:  ### INST:
+ ⼩明总共有15个苹果，他分别给了3个⼈两个苹果，然后⾃⼰⼜吃了⼀个苹果，那么它还剩⼏个苹果？
+
+### SYS:
+<unk>1. 将15个苹果分给3个朋友，每个朋友分到的苹果数相加<unk><unk>2. 将15除以3，得到商为2<unk><unk><unk>3. 将15除以3，得到商为2<unk><unk><unk>4. 将商为2，余数为2，余数为2<unk><unk>5. 将余数除以3，得到商为
+tk5:  ### INST:
+ ⼩明总共有15个苹果，他分别给了3个⼈两个苹果，然后⾃⼰⼜吃了⼀个苹果，那么它还剩⼏个苹果？
+
+### SYS:
+<unk>1. 将苹果分给3个小朋友<unk><unk>2. 将剩余的苹果分成3份<unk><unk>3. 把剩余的苹果均分给3个小朋友<unk><unk>4. 将每个小朋友分到的苹果数相除<unk><unk>5. 将剩余的苹果数相加，得到<unk><unk>6. 将剩余的苹果数相乘，得
+tk10:  ### INST:
+ ⼩明总共有15个苹果，他分别给了3个⼈两个苹果，然后⾃⼰⼜吃了⼀个苹果，那么它还剩⼏个苹果？
+
+### SYS:
+   <unk>- 将苹果均匀地均匀地分配<unk>   - 把小明分配给3个朋友<unk>   - 将剩余的苹果分配给他的朋友<unk>   - 将剩余的苹果分配给3个朋友<unk>   - 将剩余的苹果分配给小明和他的每个朋友<unk>   -
+tk20:  ### INST:
+ ⼩明总共有15个苹果，他分别给了3个⼈两个苹果，然后⾃⼰⼜吃了⼀个苹果，那么它还剩⼏个苹果？
+
+### SYS:
+<unk>x = [<unk>  <unk>     self.number: y + z a<unk><unk>    # Lesson: Lesson's and lesson's an intend issection.<unk><unk>print
+tk50:  ### INST:
+ ⼩明总共有15个苹果，他分别给了3个⼈两个苹果，然后⾃⼰⼜吃了⼀个苹果，那么它还剩⼏个苹果？
+
+### SYS:
+  <unk>   if a == 1:<unk>       b == p - s * s :<unk>           b = 1<unk>           c = p - p<unk>        a = (<unk>      b
+tk500:  ### INST:
+ ⼩明总共有15个苹果，他分别给了3个⼈两个苹果，然后⾃⼰⼜吃了⼀个苹果，那么它还剩⼏个苹果？
+
+### SYS:
+<unk>Substituting the nearest sides of the equation:<unk><unk>Game: Salary, Farming Running that Discount: <unk><unk>Hei
+7147
+5
+q:  ### INST:
+ 根据⽜顿第⼆定律，物体的加速度等于
+
+### SYS:
+
+greedy:  ### INST:
+ 根据⽜顿第⼆定律，物体的加速度等于
+
+### SYS:
+                                                                                                    
+tk5:  ### INST:
+ 根据⽜顿第⼆定律，物体的加速度等于
+
+### SYS:
+    a += b<unk>   b -= 1<unk>   for a in a in a in a in a in a in a in a in a<unk>    # System the form of the i
+tk10:  ### INST:
+ 根据⽜顿第⼆定律，物体的加速度等于
+
+### SYS:
+   for(f(1, 2)) {<unk>     f(2) {<unk>       f(2) {<unk>            subtracting f(2);<unk>     }<unk>    printf(f(f(2));
+tk20:  ### INST:
+ 根据⽜顿第⼆定律，物体的加速度等于
+
+### SYS:
+  当任意两个物体绕着半圆的平面运动时，它们都需要保持与平面的平面运动状态，即<unk>       return False<unk>      # a * b * c<unk># 计算其质量和体积之间的相互作用。 </S
+tk50:  ### INST:
+ 根据⽜顿第⼆定律，物体的加速度等于
+
+### SYS:
+  start = True<unk>其中，m都除以每小时能够完成多次的加速度，m也表示两种运动的速度。<unk>  start = True<unk>  calculate = True<unk><unk># Response the f
+tk500:  ### INST:
+ 根据⽜顿第⼆定律，物体的加速度等于
+
+### SYS:
+  value of x is 9:<unk>   #flower Import Screen(has)<unk>  # 使用第一方打印速度<unk>  mifflower = flower(screen(has)<unk>  = 
+7112
+6
+q:  ### INST:
+ 碳纳⽶管是⼀种新型的材料，具有⾮常独特的电学和光学性质。在过去的几年中，我们对碳纳
+
+### SYS:
+
+greedy:  ### INST:
+ 碳纳⽶管是⼀种新型的材料，具有⾮常独特的电学和光学性质。在过去的几年中，我们对碳纳
+
+### SYS:
+<unk>1. 碳纳<unk>2. 碳纳是一种非常高效的电学性质，具有高度的电子和电子。<unk><unk>3. 碳纳是一种非常低的电子和电子，具有高度的电子和电子。<unk><unk>4. 碳纳是一种非常低的电子和电子，具有高度的电子和电子。<unk><unk>
+tk5:  ### INST:
+ 碳纳⽶管是⼀种新型的材料，具有⾮常独特的电学和光学性质。在过去的几年中，我们对碳纳
+
+### SYS:
+1. 碳纳<unk>材料：碳纳是由碳纳是一种非气体组成的，具有高度稳定性和高度稳定性，能够在空气中产生强度、低强度、低强度等强度条件。<unk><unk>2. 碳纳是一种非气体，具有稳定的温度和高强度，能够在空气中生存。<unk><unk>
+tk10:  ### INST:
+ 碳纳⽶管是⼀种新型的材料，具有⾮常独特的电学和光学性质。在过去的几年中，我们对碳纳
+
+### SYS:
+1. Palaxass Nowed School, Runstants Net Palaxass Name, Pallelela Capabs, Livingo </SYS> <eos> <eos> 
+tk20:  ### INST:
+ 碳纳⽶管是⼀种新型的材料，具有⾮常独特的电学和光学性质。在过去的几年中，我们对碳纳
+
+### SYS:
+Travail that systems<unk>## Running<unk># Sentence and Mine of Children<unk>print(the first 3 and 6)<unk>``` </SYS> 
+tk50:  ### INST:
+ 碳纳⽶管是⼀种新型的材料，具有⾮常独特的电学和光学性质。在过去的几年中，我们对碳纳
+
+### SYS:
+- Natte Mation formation as pnp<unk>- Peternation formation<unk>- Mation for Bleak<unk>- Stack for Bleak可以与Chine
+tk500:  ### INST:
+ 碳纳⽶管是⼀种新型的材料，具有⾮常独特的电学和光学性质。在过去的几年中，我们对碳纳
+
+### SYS:
+碳纳的两个组成部分包含气体、二氧化碳等<unk><unk>根据核酸/亚硫酸氧化氢的作用，碳纳的高度约为液体2/4，质量为亿颗 5，质量为10°8/1=200°<unk><unk>## H2O<unk>这些气体具有稳定性和稳定性，一般来说仍比
+7089
+7
+q:  ### INST:
+ 下⾯是⼀段⽤python写的快速排序的代码:
+
+### SYS:
+
+greedy:  ### INST:
+ 下⾯是⼀段⽤python写的快速排序的代码:
+
+### SYS:
+   string = System.out.println("The string is:", string)<unk>   string = System.out.println("The string 
+tk5:  ### INST:
+ 下⾯是⼀段⽤python写的快速排序的代码:
+
+### SYS:
+# SELECT<unk>string = string.reverse()<unk>string = string.reverse(string.player(string.reverse())<unk>width = s
+tk10:  ### INST:
+ 下⾯是⼀段⽤python写的快速排序的代码:
+
+### SYS:
+   import standardard<unk>  times = new_time.detetetetete - times.standard(standard.left, stand_stands) 
+tk20:  ### INST:
+ 下⾯是⼀段⽤python写的快速排序的代码:
+
+### SYS:
+  my_world<unk>random_world = int(random.randint(1, 1100)<unk>  my_world = int(random.randint(1100))<unk>    for
+tk50:  ### INST:
+ 下⾯是⼀段⽤python写的快速排序的代码:
+
+### SYS:
+   list = System.out.println("Shello, hello, hello, hello!")<unk>   mean = s.list[::-1]<unk>   mean = s.list
+tk500:  ### INST:
+ 下⾯是⼀段⽤python写的快速排序的代码:
+
+### SYS:
+   word_to_width = pygame.nextDisplay.show()<unk>   word_to_width = math.math.pygame.nextDisplay.word(0,
+7132
+8
+q:  ### INST:
+ 下⾯是⼀个使⽤ PyTorch 和 Transformer 的示例代码，⽤于训练⼀个⽂本分类模型：import torch
+import torch.nn as nn
+from torch.utils.data import DataLoader, Dataset
+
+### SYS:
+
+greedy:  ### INST:
+ 下⾯是⼀个使⽤ PyTorch 和 Transformer 的示例代码，⽤于训练⼀个⽂本分类模型：import torch
+import torch.nn as nn
+from torch.utils.data import DataLoader, Dataset
+
+### SYS:
+    stack = torch.nn as nn<unk>    stack = torch.nn as nn<unk>    stack = torch.nn as nn<unk>    stack = torch.n
+tk5:  ### INST:
+ 下⾯是⼀个使⽤ PyTorch 和 Transformer 的示例代码，⽤于训练⼀个⽂本分类模型：import torch
+import torch.nn as nn
+from torch.utils.data import DataLoader, Dataset
+
+### SYS:
+  Stop 3 = Transformer('torch 'total', 'data', 'data'<unk>  Stop 2 = Transformer('teach', 'data')<unk>  Stop
+tk10:  ### INST:
+ 下⾯是⼀个使⽤ PyTorch 和 Transformer 的示例代码，⽤于训练⼀个⽂本分类模型：import torch
+import torch.nn as nn
+from torch.utils.data import DataLoader, Dataset
+
+### SYS:
+   return Transformer {<unk>         System.out.println("Transformer {"A".getElement": "A".getElement"}<unk>
+tk20:  ### INST:
+ 下⾯是⼀个使⽤ PyTorch 和 Transformer 的示例代码，⽤于训练⼀个⽂本分类模型：import torch
+import torch.nn as nn
+from torch.utils.data import DataLoader, Dataset
+
+### SYS:
+The answer is: SYS> SS <eos> <eos> </SYS> <eos> <eos> <eos> <eos> <eos> <eos> </INST> <SYS> 好的，请告诉我你
+tk50:  ### INST:
+ 下⾯是⼀个使⽤ PyTorch 和 Transformer 的示例代码，⽤于训练⼀个⽂本分类模型：import torch
+import torch.nn as nn
+from torch.utils.data import DataLoader, Dataset
+
+### SYS:
+  Translate as the solution as nn as nn.-else:<unk>    if translate a choice in language:<unk>      self.dat
+tk500:  ### INST:
+ 下⾯是⼀个使⽤ PyTorch 和 Transformer 的示例代码，⽤于训练⼀个⽂本分类模型：import torch
+import torch.nn as nn
+from torch.utils.data import DataLoader, Dataset
+
+### SYS:
+population is NoPulation Algor to Subject Ann Kata: SYS> By In algor to both measure time.media * An
+7279
